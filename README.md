@@ -1,4 +1,4 @@
-# PortraitNet
+# PCP-Net
 Reproduction of paper: "[PCPNET Learning Local Shape Properties from Raw Point Clouds](https://arxiv.org/abs/1710.04954)"
 
 ## Quick Start
